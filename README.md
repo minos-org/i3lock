@@ -18,7 +18,7 @@
 
 ### On other Linux distributions
 
-1. Type `make NOLIBCAIRO=y`
+1. Type `make`
 
 ## Differences
 
