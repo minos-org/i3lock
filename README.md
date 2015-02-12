@@ -8,13 +8,19 @@
 
 ## Quick start
 
-### On Ubuntu
+### On Ubuntu (only LTS releases)
 
    ```
    $ sudo add-apt-repository ppa:minos-archive/main
-   $ sudo apt-get update
-   $ sudo apt-get install i3lock
    ```
+
+2. Install:
+
+   ```
+   $ sudo apt-get update && sudo apt-get install i3lock
+   ```
+
+3. Enjoy ☺!
 
 ### On other Linux distributions
 
@@ -34,3 +40,8 @@
   * `--keyhlcolor=rrggbbaa` -- Keypress highlight segments
   * `--bshlcolor=rrggbbaa` -- Backspace highlight segments
 * Removal of text strings
+
+
+## Feedback
+
+Please drop me an [email](mailto:m@javier.io) with your suggestions or open [an issue](https://github.com/minos-org/i3lock/issues) with your comments.
